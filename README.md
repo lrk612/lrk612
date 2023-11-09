@@ -6,7 +6,13 @@
 
 :mortar_board: Now first-year M.Eng student in THU. Obtained my bachelor's degree from HUST.
 
-💞️ I’m open to any kinds of collaboration. Please feel free to contact me directly through email.
+🧑‍💻 Collaborator of [Towhee](https://github.com/towhee-io/towhee)
+
+💞💬 Please feel free to contact me directly through email.
+
+[LRK's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=lrk612&show_icons=true&count_private=true&theme=gotham)
+
+<a href="https://github.com/RangiLyu?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=RangiLyu&theme=vue&layout=compact" alt="top langs" height="156"/></a></p>
 
 <!--
 **lrk612/lrk612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
