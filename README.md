@@ -1,4 +1,12 @@
-### Hi there 👋
+### Ruikun Li 👋
+
+[![Email](https://img.shields.io/badge/-chunminghe19990224@gmail.com-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:chunminghe19990224@gmail.com)](mailto:lirk612@gmail.com) [![Google scholar](https://img.shields.io/badge/Google-Scholar-yellow)](https://scholar.google.com.hk/citations?user=KR8SqY0AAAAJ&hl=zh-CN&oi=ao) 
+
+:rocket: Interested in AI for Complex System & Complex Network.
+
+:mortar_board: Now first-year M.Eng student in THU. Obtained my bachelor's degree from HUST.
+
+💞️ I’m open to any kinds of collaboration. Please feel free to contact me directly through email.
 
 <!--
 **lrk612/lrk612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
