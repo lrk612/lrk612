@@ -8,9 +8,7 @@
 
 🧑‍💻 Collaborator of [Towhee](https://github.com/towhee-io/towhee)
 
-💞💬 Please feel free to contact me directly through email.
-
-<a href="https://github.com/lrk612?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lrk612&theme=vue&layout=compact" alt="top langs" height="156"/></a></p>
+💬 Please feel free to contact me directly through email.
 
 <!--
 **lrk612/lrk612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
