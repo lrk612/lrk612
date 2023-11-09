@@ -10,9 +10,7 @@
 
 💞💬 Please feel free to contact me directly through email.
 
-[LRK's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=lrk612&show_icons=true&count_private=true&theme=gotham)
-
-<a href="https://github.com/RangiLyu?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lrk612&theme=vue&layout=compact" alt="top langs" height="156"/></a></p>
+<a href="https://github.com/lrk612?tab=repositories"><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=lrk612&theme=vue&layout=compact" alt="top langs" height="156"/></a></p>
 
 <!--
 **lrk612/lrk612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
