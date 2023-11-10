@@ -6,7 +6,7 @@
 
 :mortar_board: Now first-year M.Eng student in THU. Obtained my bachelor's degree from HUST.
 
-🧑‍💻 Collaborator of [Towhee](https://github.com/towhee-io/towhee)
+🧑‍💻 Collaborator of [Towhee](https://github.com/towhee-io/towhee) (OSPP 2023).
 
 💬 Please feel free to contact me directly through email.
 
