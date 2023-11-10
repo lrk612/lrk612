@@ -1,8 +1,8 @@
 ### Ruikun Li 👋
 
-<a href="http://fi.ee.tsinghua.edu.cn/"><img src="https://img.shields.io/badge/My Lab-FIB Lab-blue" /></a>
-[![Email](https://img.shields.io/badge/-lirk612@gmail.com-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:lirk612@gmail.com)](mailto:lirk612@gmail.com)
-[![Google scholar](https://img.shields.io/badge/Google-Scholar-yellow)](https://scholar.google.com.hk/citations?user=KR8SqY0AAAAJ&hl=zh-CN&oi=ao)
+<a href="http://fi.ee.tsinghua.edu.cn/"><img src="https://img.shields.io/badge/Lab-FIB Lab-blue" /></a>
+<a href="https://github.com/lrk612"><img src="https://img.shields.io/badge/Mail-lirk612@gmail.com-green" /></a>
+<a href="https://scholar.google.com.hk/citations?user=KR8SqY0AAAAJ&hl=zh-CN&oi=ao"><img src="https://img.shields.io/badge/Google-Scholar-yellow" /></a>
 <img src="https://komarev.com/ghpvc/?username=lrk612&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 
 :rocket: Interested in AI for Complex System & Complex Network.
