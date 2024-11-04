@@ -7,7 +7,7 @@
 
 :rocket: Interested in AI for Complex System & Complex Network.
 
-:mortar_board: Now first-year M.Eng student in THU. Obtained my bachelor's degree from HUST.
+:mortar_board: Now second-year M.Eng student in THU. Obtained my bachelor's degree from HUST.
 
 💻 Collaborator of [Towhee](https://github.com/towhee-io/towhee) (OSPP 2023).
 
